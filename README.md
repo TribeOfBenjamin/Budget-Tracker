@@ -17,6 +17,7 @@ Using starter code provided by the U of M Bootcamp, I created an budget tracking
 
 - [Author](#author)
                     
+(/public/images/home.png)
 
 ## Installation
 
