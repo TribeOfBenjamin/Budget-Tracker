@@ -23,7 +23,6 @@ Using starter code provided by the U of M Bootcamp, I created an budget tracking
 
 `npm i`
         
-
 ## Usage
 
 To run the application locally:
